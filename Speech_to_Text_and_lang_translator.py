@@ -50,3 +50,9 @@ translation = translation_response.get_result()
 # String representation
 spanish_translation = translation['translations'][0]['translation']
 print(spanish_translation)
+
+# References
+
+#  https://cloud.ibm.com/apidocs/speech-to-text?code=python
+
+#  https://cloud.ibm.com/apidocs/language-translator?code=python
